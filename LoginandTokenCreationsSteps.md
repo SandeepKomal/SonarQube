@@ -1,5 +1,4 @@
-## Steps to Login to SonarQube and Create Token 
-
+## Steps to Login to SonarQube and Token Creation Steps
 publicip of Runner:9000 paste it in browser and we can access sonarqube portal
 
 Default Username is Admin and Default Password is Admin 
