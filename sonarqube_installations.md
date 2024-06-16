@@ -18,4 +18,5 @@ Then follow the steps as shown in the below Screenshots.
 ![General-Settings-Administration2](https://github.com/SandeepKomal/SonarQube/assets/99358567/dc2411a0-fc61-4852-af56-d860f646a8be)
 ![Users-Administration](https://github.com/SandeepKomal/SonarQube/assets/99358567/a50cd1c9-db73-4798-b81c-24767fddc34c)
 ![Users-Administration2](https://github.com/SandeepKomal/SonarQube/assets/99358567/7bd5761a-8bc1-4251-a131-a5c85ac8304a)
-![Users-Administration3](https://github.com/SandeepKomal/SonarQube/assets/99358567/7ce82852-e77b-4a5a-9079-08d3115c9673)
+![Users-Administration4](https://github.com/SandeepKomal/SonarQube/assets/99358567/d45af2e1-c020-45a4-8ffb-555acb34d158)
+
